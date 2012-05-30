@@ -1,3 +1,4 @@
+#!/bin/bash
 loops=$1
 shift;
 command="$@"
