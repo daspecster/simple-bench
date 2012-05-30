@@ -10,4 +10,5 @@ Usage
     bash$ ./b.sh <times to loop> <command with arguments>
 
 example:
+
     bash$ ./b.sh 1000 echo "hello world"
