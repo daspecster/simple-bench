@@ -7,7 +7,7 @@ This is a super simple and small bash script that I use to loop commands and tim
 Usage
 -----
 
-  bash$ ./b.sh <times to loop> <command with arguments>
+    bash$ ./b.sh <times to loop> <command with arguments>
 
 example:
-  bash$ ./b.sh 1000 echo "hello world"
+    bash$ ./b.sh 1000 echo "hello world"
